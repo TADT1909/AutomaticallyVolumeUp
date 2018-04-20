@@ -10,6 +10,6 @@ cls
 	echo 			______________________________
 	echo.
 	echo 			     TAP Developer Team
-	echo 			 Automatic Tuning Volume Down
+	echo 			 Automatic Tuning Volume Up
 	echo 			______________________________
 FOR /L %%G IN (0,1,370) DO nircmd.exe changesysvolume %%G
